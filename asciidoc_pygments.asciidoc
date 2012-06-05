@@ -1,3 +1,10 @@
+AsciiDoc Test
+==================
+Testing asciidoc source code highlighting
+
+Pygments highlighter
+--------------------
+
 [source,python]
 ----
 ''' A multi-line
