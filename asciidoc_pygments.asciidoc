@@ -2,6 +2,13 @@ AsciiDoc Test
 ==================
 Testing asciidoc source code highlighting
 
+
+GNU source-highlight
+--------------------
+
+Testing GNU Source
+
+
 Pygments highlighter
 --------------------
 
